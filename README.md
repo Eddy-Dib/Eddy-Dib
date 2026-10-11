@@ -22,5 +22,5 @@ CLASS:        Developer-in-progress
 SPECIALTY:    Problem solving
 STATUS:       Learning & building
 PROJECTS:     <a href="https://github.com/Eddy-Dib?tab=repositories">Explore projects</a>
-CONNECT:      <a href="edydib81@gmial.com">Get in touch</a>
+CONNECT:      <a href="mailto:edydib81@gmial.com">Get in touch</a>
 </pre>
